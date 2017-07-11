@@ -1,0 +1,16 @@
+body{
+	font-family: arial;
+	font-weight: lighter;
+}
+
+.pair{
+	color : blue;
+}
+
+.impair{
+	color : orange;
+}
+
+.square{
+	font-family: arial black;
+}
